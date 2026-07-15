@@ -1,0 +1,7 @@
+[
+    {"front": "Hello", "back": "Merhaba"},
+    {"front": "Book", "back": "Kitap"},
+    {"front": "Water", "back": "Su"},
+    {"front": "School", "back": "Okul"},
+    {"front": "Family", "back": "Aile"}
+]
