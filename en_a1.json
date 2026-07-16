@@ -146,7 +146,7 @@
   {"front": "Because", "back": "Çünkü"},
   {"front": "But", "back": "Ama / Fakat"},
   {"front": "Or", "back": "Veya / Ya da"},
-  {"front": "And", "back": "Ve"}
+  {"front": "And", "back": "Ve"},
   {"front": "Try", "back": "Denemek"},
   {"front": "Ask", "back": "Sormak"},
   {"front": "Answer", "back": "Cevap vermek"},
@@ -528,7 +528,7 @@
   {"front": "Loser", "back": "Kaybeden"},
   {"front": "Win", "back": "Kazanamak"},
   {"front": "Prize", "back": "Ödül"},
-  {"front": "Reward", "back": "Ödül / Karşılık / Mükafat"}
+  {"front": "Reward", "back": "Ödül / Karşılık / Mükafat"},
   {"front": "Device", "back": "Cihaz / Alet"},
   {"front": "Screen", "back": "Ekran"},
   {"front": "Button", "back": "Düğme / Tuş"},
@@ -739,7 +739,7 @@
   {"front": "Service", "back": "Hizmet / Servis"},
   {"front": "Serve", "back": "Hizmet etmek / Servis yapmak"},
   {"front": "Customer", "back": "Müşteri"},
-  {"front": "Client", "back": "Müşteri / Danışan"}
+  {"front": "Client", "back": "Müşteri / Danışan"},
   {"front": "Candle", "back": "Mum"},
   {"front": "Mold", "back": "Kalıp / Şekil vermek / Küf"},
   {"front": "Silicone", "back": "Silikon"},
@@ -860,7 +860,7 @@
   {"front": "Celebrity", "back": "Ünlü kişi / Şöhret"},
   {"front": "Cell", "back": "Hücre (biyoloji veya hapishane)"},
   {"front": "Century", "back": "Yüzyıl / Asır"},
-  {"front": "Ceremony", "back": "Tören / Merasim"}
+  {"front": "Ceremony", "back": "Tören / Merasim"},
   {"front": "Candidate", "back": "Aday"},
   {"front": "Interview", "back": "Mülakat / Röportaj / Görüşme"},
   {"front": "Skill", "back": "Beceri / Yetenek"},
@@ -994,5 +994,5 @@
   {"front": "Tough", "back": "Zorlu / Sert / Dayanıklı / Çetin"},
   {"front": "Easy", "back": "Kolay / Rahat"},
   {"front": "Simple", "back": "Basit / Yalın / Sade"},
-  {"front": "Complicated", "back": "Karmaşık / Çetrefilli"},
+  {"front": "Complicated", "back": "Karmaşık / Çetrefilli"}
 ]
