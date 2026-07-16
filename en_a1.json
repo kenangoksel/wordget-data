@@ -350,7 +350,7 @@
   {"front": "Police", "back": "Polis"},
   {"front": "Safe", "back": "Güvenli / Kasa"},
   {"front": "Safety", "back": "Güvenlik"},
-  {"front": "Danger", "back": "Tehlike"}
+  {"front": "Danger", "back": "Tehlike"},
   {"front": "Dangerous", "back": "Tehlikeli"},
   {"front": "Quiet", "back": "Sessiz / Sakin"},
   {"front": "Noisy", "back": "Gürültülü"},
