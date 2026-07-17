@@ -564,7 +564,7 @@
   {"front": "sich vorstellen", "back": "kendini tanıtmak"},
   {"front": "sich anmelden", "back": "kaydolmak"},
   {"front": "sich beschweren", "back": "şikayet etmek"},
-  {"front": "sich bewerben", "back": "işe başvurmak"}
+  {"front": "sich bewerben", "back": "işe başvurmak"},
   {"front": "die Umwelt", "back": "çevre"},
   {"front": "der Umweltschutz", "back": "çevre koruma"},
   {"front": "die Energie", "back": "enerji"},
@@ -773,7 +773,7 @@
   {"front": "der Umbruch", "back": "dönüşüm"},
   {"front": "der Anfang", "back": "başlangıç"},
   {"front": "das Ende", "back": "son"},
-  {"front": "der Übergang", "back": "geçiş"}
+  {"front": "der Übergang", "back": "geçiş"},
   {"front": "die Abenteuer", "back": "macera"},
   {"front": "die Absicht", "back": "niyet"},
   {"front": "die Akzeptanz", "back": "kabul ediş"},
