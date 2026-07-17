@@ -457,7 +457,7 @@
   {"front": "tessellated", "back": "mozaik gibi"},
   {"front": "unison", "back": "uyum"},
   {"front": "vex", "back": "rahatsız etmek"},
-  {"front": "zealotry", "back": "bağnazlık"}
+  {"front": "zealotry", "back": "bağnazlık"},
   {"front": "abysm", "back": "uçurum"},
   {"front": "bilious", "back": "huysuz"},
   {"front": "candor", "back": "samimiyet"},
@@ -649,7 +649,7 @@
   {"front": "sinuous", "back": "kıvrımlı"},
   {"front": "trepidation", "back": "korku / heyecan"},
   {"front": "variegated", "back": "alaca bulaca"},
-  {"front": "vociferous", "back": "gürültülü"}
+  {"front": "vociferous", "back": "gürültülü"},
   {"front": "abyss", "back": "uçurum"},
   {"front": "bestir", "back": "harekete geçmek"},
   {"front": "capitulation", "back": "teslimiyet"},
@@ -997,6 +997,6 @@
   {"front": "check", "back": "durdurmak"},
   {"front": "cherish", "back": "değer vermek"},
   {"front": "chicanery", "back": "hile"},
-  {"front": "chide", "back": "azarlamak"}
+  {"front": "chide", "back": "azarlamak"},
   {"front": "zealot", "back": "bağnaz / aşırı tutkulu kimse"}
 ]
