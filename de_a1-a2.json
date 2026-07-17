@@ -150,7 +150,7 @@
   {"front": "wenig", "back": "az"},
   {"front": "immer", "back": "her zaman"},
   {"front": "nie", "back": "asla"},
-  {"front": "vielleicht", "back": "belki"}
+  {"front": "vielleicht", "back": "belki"},
   {"front": "der Apfel", "back": "elma"},
   {"front": "die Banane", "back": "muz"},
   {"front": "die Butter", "back": "tereyağı"},
@@ -356,7 +356,7 @@
   {"front": "erfahren", "back": "öğrenmek / tecrübe etmek"},
   {"front": "verlieren", "back": "kaybetmek"},
   {"front": "finden", "back": "bulmak"},
-  {"front": "werden", "back": "olmak (gelecek zaman)"}
+  {"front": "werden", "back": "olmak (gelecek zaman)"},
   {"front": "der Flughafen", "back": "havaalanı"},
   {"front": "die Verspätung", "back": "rötar / gecikme"},
   {"front": "die Auskunft", "back": "bilgi"},
