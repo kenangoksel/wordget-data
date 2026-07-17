@@ -147,7 +147,7 @@
   {"front": "vorbeugen", "back": "önlem almak"},
   {"front": "die Selbstverwirklichung", "back": "kendini gerçekleştirme"},
   {"front": "abwägen", "back": "tartmak / değerlendirmek"},
-  {"front": "die Anziehungskraft", "back": "çekim gücü"}
+  {"front": "die Anziehungskraft", "back": "çekim gücü"},
   {"front": "die Anforderung", "back": "talep / gereksinim"},
   {"front": "die Auswirkung", "back": "etki / sonuç"},
   {"front": "berücksichtigen", "back": "göz önünde bulundurmak"},
@@ -364,7 +364,7 @@
   {"front": "die Archivierung", "back": "arşivleme"},
   {"front": "die Veröffentlichung", "back": "yayınlama"},
   {"front": "die Verbreitung", "back": "yayılma"},
-  {"front": "die Präsentation", "back": "sunum"}
+  {"front": "die Präsentation", "back": "sunum"},
   {"front": "abschätzen", "back": "tahmin etmek / kestirmek"},
   {"front": "absichtlich", "back": "kasıtlı / bilerek"},
   {"front": "abwickeln", "back": "yürütmek / tamamlamak (iş vb.)"},
