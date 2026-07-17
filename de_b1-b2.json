@@ -499,7 +499,7 @@
   {"front": "widersprüchlich", "back": "çelişkili"},
   {"front": "zielgerichtet", "back": "hedefe yönelik"},
   {"front": "zurückgreifen auf", "back": "yararlanmak / başvurmak"},
-  {"front": "zwingend", "back": "zorunlu"}
+  {"front": "zwingend", "back": "zorunlu"},
   {"front": "abbilden", "back": "resmetmek / modellemek"},
   {"front": "abgeleitet", "back": "türetilmiş / kaynaklanan"},
   {"front": "abgrenzen", "back": "sınırlandırmak / ayırmak"},
@@ -738,7 +738,7 @@
   {"front": "die weiterentwicklung", "back": "daha fazla geliştirme"},
   {"front": "die wirksamkeit", "back": "etkililik"},
   {"front": "die zielvorgabe", "back": "hedef belirleme"},
-  {"front": "die zusammenfassung", "back": "özet"}
+  {"front": "die zusammenfassung", "back": "özet"},
   {"front": "adäquat", "back": "uygun / yerinde"},
   {"front": "ambivalent", "back": "ikircikli"},
   {"front": "arbiträr", "back": "keyfi"},
@@ -980,7 +980,7 @@
   {"front": "wirksam", "back": "etkili"},
   {"front": "wünschenswert", "back": "arzulanır"},
   {"front": "zielstrebig", "back": "hedefe yönelik"},
-  {"front": "zyklisch", "back": "döngüsel"}
+  {"front": "zyklisch", "back": "döngüsel"},
   {"front": "die Ambivalenz", "back": "ikirciklilik / kararsızlık"},
   {"front": "die Diskrepanz", "back": "uyumsuzluk / fark"},
   {"front": "emanzipieren", "back": "özgürleşmek / bağımsızlaşmak"},
