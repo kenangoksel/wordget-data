@@ -418,7 +418,7 @@
   {"front": "perfunctory", "back": "baştan savma"},
   {"front": "pernicious", "back": "sinsi ve zararlı"},
   {"front": "perspicacious", "back": "ferasetli / anlayışlı"},
-  {"front": "pertinent", "back": "konuyla ilgili"}
+  {"front": "pertinent", "back": "konuyla ilgili"},
   {"front": "abate", "back": "hafiflemek / azalmak"},
   {"front": "aberrant", "back": "normalden sapan / anormal"},
   {"front": "abjure", "back": "yeminle vazgeçmek / reddetmek"},
@@ -665,7 +665,7 @@
   {"front": "warranted", "back": "garantili / haklı kılınmış"},
   {"front": "wary", "back": "ihtiyatlı / tetikte"},
   {"front": "welter", "back": "karmaşa / hercümerç"},
-  {"front": "zealot", "back": "fanatik / aşırı bağnaz"}
+  {"front": "zealot", "back": "fanatik / aşırı bağnaz"},
   {"front": "abdicate", "back": "tahttan veya haktan feragat etmek"},
   {"front": "abscond", "back": "adaletten kaçmak / gizlice sıvışmak"},
   {"front": "abstemious", "back": "nefsine hakim / yeme içmede ölçülü"},
