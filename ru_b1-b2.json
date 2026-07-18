@@ -236,7 +236,6 @@
   {"front": "Продолжать (Prodolzhat')", "back": "Sürdürmek"},
   {"front": "Прерывать (Preryvat')", "back": "Yarıda kesmek / Sözünü kesmek"},
   {"front": "Начинать (Nachinat')", "back": "Başlamak"},
-  [
   {"front": "Заканчивать (Zakanchivat')", "back": "Bitirmek"},
   {"front": "Повторять (Povtoryat')", "back": "Tekrar etmek"},
   {"front": "Запоминать (Zapominat')", "back": "Ezberlemek / Aklında tutmak"},
@@ -477,7 +476,6 @@
   {"front": "Тактика (Taktika)", "back": "Taktik / Yöntem"},
   {"front": "Метод (Metod)", "back": "Yöntem / Usul / Metot"},
   {"front": "Способ (Sposob)", "back": "Yol / Yöntem / Çare"},
-  [
   {"front": "Средство (Sredstvo)", "back": "Araç / Vasıta / İlaç"},
   {"front": "Инструмент (Instrument)", "back": "Alet / Enstrüman"},
   {"front": "Техника (Tekhnika)", "back": "Teknik / Teknoloji / Cihazlar"},
@@ -702,7 +700,6 @@
   {"front": "Гнев (Gnev)", "back": "Hiddet / Gazap / Öfke"},
   {"front": "Ярость (Yarost')", "back": "Öfke nöbeti / Cinnet / Gazap"},
   {"front": "Ненависть (Nenavist')", "back": "Garez / Nefret"},
-  [
   {"front": "Презрение (Prezrenie)", "back": "Küstahlık / Aşağı görme / Hor görme"},
   {"front": "Обида (Obida)", "back": "Gönül kırıklığı / Küskünlük / Alınma"},
   {"front": "Страх (Strakh)", "back": "Korku / Dehşet"},
@@ -928,7 +925,6 @@
   {"front": "Перо (Pero)", "back": "Kuş tüyü / Mürekkepli kalem ucu"},
   {"front": "Крыло (Krylo)", "back": "Kanat / Çamurluk (Araba)"},
   {"front": "Хвост (Khvost)", "back": "Kuyruk / Sıra / Bütün (Sınavda)"},
-  [
   {"front": "Лапа (Lapa)", "back": "Pati / Hayvan ayağı"},
   {"front": "Копыто (Kopyto)", "back": "Toynak"},
   {"front": "Рог (Rog)", "back": "Boynuz / Korno"},
