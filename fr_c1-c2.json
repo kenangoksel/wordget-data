@@ -209,7 +209,6 @@
 {"front": "oblitération", "back": "silinme / iptal etme"},
 {"front": "obscurantisme", "back": "bilgi düşmanlığı / gericilik"},
 {"front": "obstination", "back": "inat / ayak direme"},
-[
 {"front": "occultisme", "back": "gizli bilimler"},
 {"front": "omniprésence", "back": "her yerde bulunma"},
 {"front": "opportunisme", "back": "fırsatçılık"},
@@ -472,7 +471,6 @@
 {"front": "synergie", "back": "sinerji / işbirliği"},
 {"front": "synthèse", "back": "sentez"},
 {"front": "système", "back": "sistem"},
-[
 {"front": "tabou", "back": "yasak"},
 {"front": "taciturne", "back": "sessiz / içine kapanık"},
 {"front": "tact", "back": "incelik / nezaket"},
@@ -734,7 +732,6 @@
 {"front": "applaudissement", "back": "alkış"},
 {"front": "applicabilité", "back": "uygulanabilirlik"},
 {"front": "appoint", "back": "ek / üstü"},
-[
 {"front": "apposition", "back": "yan yana getirme"},
 {"front": "appréhension", "back": "kavrama / endişe"},
 {"front": "apprivoisement", "back": "evcilleştirme"},
