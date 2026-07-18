@@ -459,7 +459,6 @@
   {"front": "Музыка (Muzyka)", "back": "Müzik"},
   {"front": "Песня (Pesnya)", "back": "Şarkı"},
   {"front": "Фильм (Fil'm)", "back": "Film / Sinema filmi"},
-  [
   {"front": "Спорт (Sport)", "back": "Spor"},
   {"front": "Игра (Igra)", "back": "Oyun"},
   {"front": "Мяч (Myach)", "back": "Top"},
@@ -695,7 +694,6 @@
   {"front": "Коробка (Korobka)", "back": "Kutu / Koli"},
   {"front": "Ящик (Yashchik)", "back": "Çekmece / Kasa / Sandık"},
   {"front": "Сумка-холодильник (Sumka-kholodil'nik)", "back": "Termos çanta"},
-  [
   {"front": "Вещь (Veshch')", "back": "Eşya / Şey"},
   {"front": "Предмет (Predmet)", "back": "Nesne / Obje / Ders (Okul)"},
   {"front": "Мусорное ведро (Musornoye vedro)", "back": "Çöp kovası"},
