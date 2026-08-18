@@ -249,7 +249,6 @@
   {"front": "en sak", "back": "şey / eşya"},
   {"front": "ett liv", "back": "yaşam / hayat"},
   {"front": "en värld", "back": "dünya"},
-  [
   {"front": "två", "back": "iki"},
   {"front": "tre", "back": "üç"},
   {"front": "fyra", "back": "dört"},
@@ -502,7 +501,6 @@
   {"front": "en ko", "back": "inek"},
   {"front": "ett får", "back": "koyun"},
   {"front": "en gris", "back": "domuz"},
-  [
   {"front": "en älg", "back": "sığın / ren geyiği"},
   {"front": "en björn", "back": "ayı"},
   {"front": "en varg", "back": "kurt"},
@@ -746,7 +744,6 @@
   {"front": "ett recept", "back": "reçete / yemek tarifi"},
   {"front": "en doktor", "back": "doktor"},
   {"front": "en sjuksköterska", "back": "hemşire"},
-  [
   {"front": "en tandläkare", "back": "diş hekimi"},
   {"front": "en patient", "back": "hasta"},
   {"front": "ett piller", "back": "hap"},
