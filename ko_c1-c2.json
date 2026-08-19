@@ -274,7 +274,6 @@
   {"front": "장벽", "back": "bariyer, aşılması zor engel"},
   {"front": "재량", "back": "takdir yetkisi"},
   {"front": "재정", "back": "maliye, kamu finansmanı"},
-  [
   {"front": "저해하다", "back": "engellemek, baltalamak, sekteye uğratmak"},
   {"front": "전통적", "back": "geleneksel"},
   {"front": "점유율", "back": "pazar payı, kaplanan oran"},
@@ -494,7 +493,6 @@
   {"front": "축적된 data", "back": "toplanmış/birikmiş veri"},
   {"front": "표준화를 확립하다", "back": "standartlaşmayı oturtmak"},
   {"front": "확립을 tanzim", "back": "kurulumun düzenlenmesi"},
-  [
   {"front": "가면을 벗다", "back": "maskesini düşürmek, gerçek yüzünü göstermek"},
   {"front": "가늠하다", "back": "tahmin etmek, tartmak, ölçüp biçmek"},
   {"front": "각축을 벌이다", "back": "kızışmış bir mücadeleye/rekabete girmek"},
@@ -804,7 +802,6 @@
   {"front": "확산시킬 필요성", "back": "yaygınlaştırılmasının gerekliliği"},
   {"front": "활성화를 도모해야 한다", "back": "canlandırılmasının hedeflenmesi şart olmak"},
   {"front": "효율성을 극대화하기 위해", "back": "verimliliği zirveye çıkarmak amacıyla"},
-  [
   {"front": "가중되다", "back": "ağırlaşmak, şiddetlenmek, yükü artmak"},
   {"front": "각각의 입장", "back": "her bir tarafın kendi tutumu/duruşu"},
   {"front": "간소화", "back": "sadeleştirme, kolaylaştırma"},
